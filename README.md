@@ -29,7 +29,7 @@ Bem-vindo ao repositório da Landing Page conceito do **Samsung Galaxy S26 Ultra
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/balzaNeli/S26-Ultra.git
 ```
 2. Entre na pasta do projeto:
 ```bash
